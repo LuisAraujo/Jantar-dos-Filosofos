@@ -1,0 +1,20 @@
+************************LEIA-ME*************************
+
+
+1- Este objeto educacional destina-se à facilitar o aprendizado
+por meio de simulação. 
+
+2- O conteúdo abordado nesse objeto educacional faz parte
+da matriz curricular da disciplina Sistemas Operacionais no
+Curso de Licenciaturam em Computação do Istituto Federal de
+Educação, Ciência e Tecnologia da Bahia (IFBA - campus Santo Amaro)
+
+2-Este objeto educacional aborda o problema do jantar dos filósofos
+explorando o conteúdo de "concorrência".
+
+3- O uso desse objeto educacional é livre desde que se
+faça as devidas referências.
+
+4 - Execute main.exe ou main.swf
+
+
